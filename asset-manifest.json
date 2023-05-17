@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Tamric/pomodoro-timer-reactjs.git/static/css/main.07cc51e7.css",
+    "main.js": "/Tamric/pomodoro-timer-reactjs.git/static/js/main.0a4225fc.js",
+    "static/media/complete.oga": "/Tamric/pomodoro-timer-reactjs.git/static/media/complete.24b508b6fb8339f176d3.oga",
+    "static/media/bell.oga": "/Tamric/pomodoro-timer-reactjs.git/static/media/bell.850cf9913d72e39d7059.oga",
+    "static/media/reset.svg": "/Tamric/pomodoro-timer-reactjs.git/static/media/reset.c96cb35d309c0d2accd7e0d362bd925e.svg",
+    "index.html": "/Tamric/pomodoro-timer-reactjs.git/index.html",
+    "static/media/play.svg": "/Tamric/pomodoro-timer-reactjs.git/static/media/play.7baf5c146ae627398361d16dabc6312c.svg",
+    "static/media/pause.svg": "/Tamric/pomodoro-timer-reactjs.git/static/media/pause.3d4e1dab44ff02a404fa7f0152030164.svg",
+    "static/media/stop.svg": "/Tamric/pomodoro-timer-reactjs.git/static/media/stop.8deea1442cfd818a09a15d4e30156e62.svg",
+    "static/media/arrow.svg": "/Tamric/pomodoro-timer-reactjs.git/static/media/arrow.835af5f6316ae882189845b37cb3c90a.svg",
+    "main.07cc51e7.css.map": "/Tamric/pomodoro-timer-reactjs.git/static/css/main.07cc51e7.css.map",
+    "main.0a4225fc.js.map": "/Tamric/pomodoro-timer-reactjs.git/static/js/main.0a4225fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07cc51e7.css",
+    "static/js/main.0a4225fc.js"
+  ]
+}
